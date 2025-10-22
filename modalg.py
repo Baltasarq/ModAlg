@@ -32,7 +32,7 @@ def look_for(l:list, x: int) -> int:
         elif l[-1] == x:
             pos = len(l) - 1
         elif l[len(l) // 2] == x:
-            pos = len(l) - 1
+            pos = len(l) // 2
         else:
             pray()
             sequence = list(range(len(l)))
