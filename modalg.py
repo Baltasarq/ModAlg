@@ -13,7 +13,7 @@ end = ...                   # A reflection on infinity
 def pray():
     """Asset for completing sort and search algorithms.
        Last resort aiming at O(1) complexity."""
-    time.sleep(0.25)        # Self reflection
+    time.sleep(0.25)        # Self reflection. It takes a while to connect.
 end
 
 
